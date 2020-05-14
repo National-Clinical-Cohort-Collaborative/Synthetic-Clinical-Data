@@ -36,7 +36,7 @@ We encourage participation from the community! If you have a bug or an idea, bro
 **Where to find known issues**
 We are using[ Github issues](https://github.com/National-COVID-Cohort-Collaborative/Synthetic-Clinical-Data).
 
-**How to connect with us.** Want to ask a question or just say hi? We’d love to hear from you. If you have already onboarded you can find us on the #n3c-phenotype channel on Slack.  To learn more about the N3C and onboard, please visit us [here](https://covid.cd2h.org/N3C). 
+**How to connect with us.** Want to ask a question or just say hi? We’d love to hear from you. If you have already onboarded you can find us on the #n3c-synthetic channel on Slack.  To learn more about the N3C and onboard, please visit us [here](https://covid.cd2h.org/N3C). 
 
 **Reporting new issues**
 The best way for your bug to get fixed is to open a GitHub Issue and provide enough information for us to try and replicate what you’re seeing. Useful information includes the database management system you’re using, the data model you’re running, the database client you’re using, your operating system, etc. 
