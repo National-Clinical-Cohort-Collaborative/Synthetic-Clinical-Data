@@ -1,5 +1,4 @@
 # Synthetic-Clinical-Data
-N3C Synthetic Clinical Data Workstream 
 <!-----
 NEW: Your output is on the clipboard!
 
@@ -25,7 +24,7 @@ Conversion notes:
 
 **Welcome to the N3C Synthetic Clinical Data Workstream**
 
-**Our work.** In collaboration with other N3C workstreams, ...
+**Our work.** In collaboration with other N3C workstreams, We will create a ”pipeline” that can be used to generate computationally derived synthetic clinical data, in support of COVID related analytics.
 
 **If you’re a new N3C site:** You may want to start with the [documentation ](https://github.com/National-COVID-Cohort-Collaborative/Synthetic-Clinical-Data/wiki). 
 
